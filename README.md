@@ -5,4 +5,9 @@ En vous aidant des [Consignes](Consignes.md), réaliser une application web de g
 
 Une fois le travail réalisé, effectuer un fork de ce projet et remplir le README avec votre groupe, et un lien vers le repository github de votre projet.
 
+https://github.com/ErickPatrice/mastercook/tree/dev
 
+Oscar Werle
+Benoit Gueheneux
+Erick Nounga
+Claire Musial
